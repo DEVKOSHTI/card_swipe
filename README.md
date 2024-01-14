@@ -1,4 +1,4 @@
-you can see my code in component in card.js and app.tsx
+# you can see my code in component in card.js and app.tsx
 
 
 
